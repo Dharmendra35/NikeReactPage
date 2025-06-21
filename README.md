@@ -13,7 +13,7 @@ This is a simple and clean landing page built using **React**. It mimics a Nike 
 ## 🛠️ Tech Stack
 
 - React (Vite)
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 
